@@ -75,7 +75,17 @@ pip install python-pptx pillow pywin32 pdf2image
 
 触发词：`PPT转视频`、`PPT生成视频`、`PPT加音乐`、`PPT to video`
 
-安装方式：将整个目录放入 `~/.workbuddy/skills/ppt-to-video/`
+安装方式：
+
+```bash
+# 方式一：git clone（推荐）
+git clone git@github.com:cuixiaohui985/ppt-to-video.git ~/.workbuddy/skills/ppt-to-video
+
+# 方式二：下载解压
+# 从 Release 页面下载 ppt-to-video.zip，解压到：
+#   Linux/macOS: ~/.workbuddy/skills/ppt-to-video/
+#   Windows:     C:\Users\<用户名>\.workbuddy\skills\ppt-to-video\
+```
 
 详细文档见 [SKILL.md](SKILL.md)。
 
