@@ -87,6 +87,10 @@ git clone git@github.com:cuixiaohui985/ppt-to-video.git ~/.workbuddy/skills/ppt-
 #   Windows:     C:\Users\<用户名>\.workbuddy\skills\ppt-to-video\
 ```
 
+**方式三：WorkBuddy 内直接导入**
+
+在 WorkBuddy 中打开「技能管理」→ 点击「导入新技能」→ 选择从 Release 下载的 `ppt-to-video.zip` 即可完成安装。
+
 详细文档见 [SKILL.md](SKILL.md)。
 
 ## 许可
