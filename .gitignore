@@ -14,3 +14,8 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# WorkBuddy workspace
+.workbuddy/
+.codebuddy/
+ppt-to-video.zip
